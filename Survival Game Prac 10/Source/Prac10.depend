@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1652381318 source:c:\users\kgaugelo\desktop\mothoagae_ks_220022690_csc01a1_2022_p10\source\libsurvival.cpp
+	"libSurvival.h"
+
+1652380280 c:\users\kgaugelo\desktop\mothoagae_ks_220022690_csc01a1_2022_p10\source\libsurvival.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<sstream>
+	<iomanip>
+	<cassert>
+
+1652380847 source:c:\users\kgaugelo\desktop\mothoagae_ks_220022690_csc01a1_2022_p10\source\main.cpp
+	<iostream>
+	"libSurvival.h"
+
+1652381318 source:c:\users\kgaugelo\desktop\book$\mothoagae_ks_220022690_csc01a1_2022_p10\source\libsurvival.cpp
+	"libSurvival.h"
+
+1652380280 c:\users\kgaugelo\desktop\book$\mothoagae_ks_220022690_csc01a1_2022_p10\source\libsurvival.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<sstream>
+	<iomanip>
+	<cassert>
+
+1652380847 source:c:\users\kgaugelo\desktop\book$\mothoagae_ks_220022690_csc01a1_2022_p10\source\main.cpp
+	<iostream>
+	"libSurvival.h"
+
