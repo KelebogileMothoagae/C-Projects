@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1663280440 source:c:\users\kgaugelo\desktop\book$\mothoagae_ks_220022690_csc01b1_2022_p6\mothoagae_ks_220022690_csc01b1_2022_p6\source\libmatrix2d.cpp
+	"libMatrix2D.h"
+
+1663280440 c:\users\kgaugelo\desktop\book$\mothoagae_ks_220022690_csc01b1_2022_p6\mothoagae_ks_220022690_csc01b1_2022_p6\source\libmatrix2d.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<sstream>
+
+1663280694 source:c:\users\kgaugelo\desktop\book$\mothoagae_ks_220022690_csc01b1_2022_p6\mothoagae_ks_220022690_csc01b1_2022_p6\source\main.cpp
+	"libMatrix2D.h"
+
